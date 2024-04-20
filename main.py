@@ -1,7 +1,6 @@
 from customtkinter import *
-from tkinter import messagebox, Menu, ttk
+from tkinter import messagebox, Menu
 from tkinter import filedialog
-import os
 
 root = CTk()
 root.title('NotePad')
